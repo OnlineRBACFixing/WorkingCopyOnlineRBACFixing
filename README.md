@@ -54,6 +54,8 @@ Dataset benchmark used in Role-ming literature representing policies implemented
 
 
 
+
+
 # Selection of a Max-SAT solver
 
 ## Complete Solvers
@@ -75,9 +77,23 @@ Dataset benchmark used in Role-ming literature representing policies implemented
 
 ## Incomplete Solvers
 
-Minimum timeout needed to compute feasible solution to _Firewall1_ (y axis, secs) as a function of the number of users (x axis). Along the x-axis we also note the size og the corresponding CNF formula.
+### Firewall1 variant to evaluate time complexity
+
+We generate 90 online fixing instances of increasing size have been generated from _Firewall1_ by selecting more and more of its users (i.e., rows); each instance is associated with a single exception to incorporate and generates a Max-SAT encoding of growing size. 
+
+|5 users (0.4 MB)|21 (5.2 MB)|37 (12.0 MB)|53 (29.1 MB)|69 (57.9 MB)|85 (83.8 MB)|101 (120.9 MB)|117 (170.5 MB)|133 (232.9 MB)|149 (315.1 MB)|165 (352.9 MB)|181 (398.2 MB)|197 (541.5 MB)|
+|:-:|:---:|:---:|:---:|:---:||:-:|:---:|:---:|:---:|:---:||:-:|:---:|:---:|	
+||||||||||||||
+
+
+
+
+### Results
+
+The figure below shows the minimum timeout needed to obtain a feasible solution for these inputs as a function of their size. Minimum timeout needed to compute feasible solution to _Firewall1_ (y axis, secs) as a function of the number of users (x axis). Along the x-axis we also note the size og the corresponding CNF formula.
 
 ![H_ResponseTime](img/H_responseTime.png)
+
 
 # Experimental Results 
 

@@ -73,7 +73,7 @@ Dataset benchmark used in Role-ming literature representing policies implemented
 
 
 
-[MaximoSmallComp](CompleteSolverComparison/SmallComp/Maximo/Result.txt)
+
 
 ## Incomplete Solvers
 
@@ -91,10 +91,9 @@ We generate 90 online fixing instances of increasing size have been generated fr
 
 ### Results
 
-The figure below shows the minimum timeout needed to obtain a feasible solution for these inputs as a function of their size. Minimum timeout needed to compute feasible solution to _Firewall1_ (y axis, secs) as a function of the number of users (x axis). Along the x-axis we also note the size og the corresponding CNF formula.
-
 ![H_ResponseTime](img/H_responseTime.png)
 
+The figure below shows the minimum timeout needed to obtain a feasible solution for these inputs as a function of their size. Minimum timeout needed to compute feasible solution to _Firewall1_ (y axis, secs) as a function of the number of users (x axis). Along the x-axis we also note the size of the corresponding CNF formula. The results are also available in plain text in [Results.txt](dataset/complexity/Results.txt)
 
 # Experimental Results 
 

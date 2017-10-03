@@ -102,9 +102,9 @@ Experiment based on _SmallComp_ dataset to measure the ability of the incomplete
 The figure above shows the average percentage of satisfied soft clauses (y axis) as a function of the balance B (c_axis) in the _SmallComp_ dataset
 
 Results are also available in plain text in [rate.txt](dataset/Incomplete/rate.txt) which are based on the evalaution of the three configurations:
--complete solver [Results.txt](dataset/Incomplete/complete/Results.txt)
--incomplete solver (timeout 2 sec) [Results.txt](dataset/Incomplete/2/Results.txt)
--incomplete solver (timeout 180 sec) [Results.txt](dataset/Incomplete/180/Results.txt)
+- complete solver [Results.txt](dataset/Incomplete/complete/Results.txt)
+- incomplete solver (timeout 2 sec) [Results.txt](dataset/Incomplete/2/Results.txt)
+- incomplete solver (timeout 180 sec) [Results.txt](dataset/Incomplete/180/Results.txt)
 
 
 

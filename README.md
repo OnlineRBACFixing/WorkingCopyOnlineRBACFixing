@@ -5,6 +5,22 @@
 
 ## Complete Solvers
 
+|   	|   	|   	|   	|   	|   	|
+|:-:	|---	|---	|---	|---	|---	|
+|   	|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|   	|
+
+
+
++------------+---------+
+|    Type      MySQL   |
++------------+---------+
+| Header     | Top Row |
+| Auto Align | On      |
++------------+---------+
 
 
 [MaximoSmallComp](CompleteSolverComparison/SmallComp/Maximo/Result.txt)

@@ -77,7 +77,7 @@ Dataset benchmark used in Role-ming literature representing policies implemented
 
 ## Incomplete Solvers
 
-### Firewall1 variant to evaluate time complexity
+### Time complexity based on Firewall1 variant
 
 90 online fixing instances of increasing size have been generated from _Firewall1_ by selecting more and more of its users (i.e., rows); each instance is associated with a single exception to incorporate and generates a Max-SAT encoding of growing size. 
 
@@ -88,15 +88,23 @@ Dataset benchmark used in Role-ming literature representing policies implemented
 |[exc](dataset/complexity/89/excs.txt)|[exc](dataset/complexity/85/excs.txt)|[exc](dataset/complexity/81/excs.txt)|[exc](dataset/complexity/77/excs.txt)|[exc](dataset/complexity/73/excs.txt)|[exc](dataset/complexity/69/excs.txt)|[exc](dataset/complexity/65/excs.txt)|[exc](dataset/complexity/61/excs.txt)|[exc](dataset/complexity/57/excs.txt)|[exc](dataset/complexity/53/excs.txt)|[exc](dataset/complexity/49/excs.txt)|[exc](dataset/complexity/45/excs.txt)|[exc](dataset/complexity/41/excs.txt)|
 
 
-#### Results
-
 ![H_ResponseTime](img/H_responseTime.png)
 
-The figure above shows the minimum timeout needed to obtain a feasible solution for these inputs as a function of their size. Minimum timeout needed to compute feasible solution to _Firewall1_ (y axis, secs) as a function of the number of users (x axis). Along the x-axis we also note the size of the corresponding CNF formula. The results are also available in plain text in [Results.txt](dataset/complexity/Results.txt)
+The figure below shows the minimum timeout needed to obtain a feasible solution for these inputs as a function of their size. Minimum timeout needed to compute feasible solution to _Firewall1_ (y axis, secs) as a function of the number of users (x axis). Along the x-axis we also note the size of the corresponding CNF formula. The results are also available in plain text in [Results.txt](dataset/complexity/Results.txt)
+
+
+### Quality of incomplete solutions
+
+
+
+
+
 
 # Experimental Results 
 
 ## Impact of Beta
+
+## Impact of timeout
 
 ## The order of exceptions
 

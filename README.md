@@ -5,13 +5,13 @@
 
 ## Complete Solvers
 
-|Solver  	       |SmallComp   	                                         |Domino   	                                    |University   	|Firewall1   	|   	
-|:-:	           |---	|---	|---	|---	|	
-|_Maximo_   	   |B<=0.65 [Link](CompleteS/SC/Maximo/Results.txt)   	   |B<=0.05 [Link](CompleteS/D/Maximo/Results.txt)    	  |   	|   	|   	
-|_MaxHS_   	     |B<=0.25 [Link](CompleteS/SC/MaxHS/Results.txt)     	   |B<=0.2 [Link](CompleteS/D/MaxHS/Results.txt)   	    |   	|   	|   	
-|_Ahmaxsat_   	 |B<=0.3  [Link](CompleteS/SC/Ahmaxsat/Results.txt)   	 |- [Link](CompleteS/D/Ahmaxsat/Results.txt)    	|   	|   	|   	
-|_CCLS2akmaxsat_ |B<=0.1  [Link](CompleteS/SC/CCLS2akmaxsat/Results.txt) |- [Link](CompleteS/D/CCLS2akmaxsat/Results.txt)  	|   	|   	|   	
-|_CCEHC2akmaxsat_|B<=0.1  [Link](CompleteS/SC/CCEHC2akmaxsat/Results.txt)|- [Link](CompleteS/D/CCEHC2akmaxsat/Results.txt)   	|   	|   	|   	
+|Solver  	       |SmallComp  |Domino   	 |University   	|Firewall1   	|   	
+|:-:	           |:---:	|:---:	|:---:	|:---:	|	
+|_Maximo_   	   |B<=0.65 [Link](CompleteS/SC/Maximo/Results.txt)   	   |B<=0.05 [Link](CompleteS/D/Maximo/Results.txt)    	  |B<=0.05 [Link](CompleteS/U/Maximo/Results.txt)   	|B=0 [Link](CompleteS/F/Maximo/Results.txt)   	|   	
+|_MaxHS_   	     |B<=0.25 [Link](CompleteS/SC/MaxHS/Results.txt)     	   |B<=0.2 [Link](CompleteS/D/MaxHS/Results.txt)   	      |B<=0.2 [Link](CompleteS/U/MaxHS/Results.txt)    	| B=0 [Link](CompleteS/F/MaxHS/Results.txt)   	|   	
+|_Ahmaxsat_   	 |B<=0.3  [Link](CompleteS/SC/Ahmaxsat/Results.txt)   	 |- | -  	|  - 	|   	
+|_CCLS2akmaxsat_ |B<=0.1  [Link](CompleteS/SC/CCLS2akmaxsat/Results.txt) |- |  - 	|  - 	|   	
+|_CCEHC2akmaxsat_|B<=0.1  [Link](CompleteS/SC/CCEHC2akmaxsat/Results.txt)|- | -  	| -  	|   	
 
 
 

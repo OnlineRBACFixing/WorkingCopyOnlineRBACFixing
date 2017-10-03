@@ -79,7 +79,7 @@ Dataset benchmark used in Role-ming literature representing policies implemented
 
 ### Firewall1 variant to evaluate time complexity
 
-We generate 90 online fixing instances of increasing size have been generated from _Firewall1_ by selecting more and more of its users (i.e., rows); each instance is associated with a single exception to incorporate and generates a Max-SAT encoding of growing size. 
+90 online fixing instances of increasing size have been generated from _Firewall1_ by selecting more and more of its users (i.e., rows); each instance is associated with a single exception to incorporate and generates a Max-SAT encoding of growing size. 
 
 |5 users (0.4 MB)|21 users (5.2 MB)|37 users (12.0 MB)|53 users (29.1 MB)|69 users (57.9 MB)|85 users (83.8 MB)|101 users (120.9 MB)|117 users (170.5 MB)|133 users (232.9 MB)|149 users (315.1 MB)|165 users (352.9 MB)|181 users (398.2 MB)|197 users (541.5 MB)|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|	

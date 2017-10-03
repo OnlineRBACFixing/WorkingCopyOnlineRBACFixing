@@ -5,13 +5,13 @@
 
 ## Complete Solvers
 
-|   	|   	|   	|   	|   	|   	|
-|:-:	|---	|---	|---	|---	|---	|
-|   	|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|   	|
+|Solver  	      |SmallComp   	|Domino   	|University   	|Firewall1   	|   	
+|:-:	          |---	|---	|---	|---	|	
+|_Maximo_   	  |[Link](CompleteS/SmallComp/Maximo/Result.txt)   	|   	|   	|   	|   	
+|_MaxHS_   	    |   	|   	|   	|   	|   	
+|_Ahmaxsat_   	|   	|   	|   	|   	|   	
+|_CCLS2akmaxsat_|   	|   	|   	|   	|   	
+|_CCEHCakmaxsat_|   	|   	|   	|   	|   	
 
 
 

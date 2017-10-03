@@ -97,7 +97,7 @@ The figure below shows the minimum timeout needed to obtain a feasible solution 
 
 Experiment based on _SmallComp_ dataset to measure the ability of the incomplete solver adopted to satisfy the soft constraints. In particular, this is computed as the average weight of satisfied soft constraints over the total sum of weights for the 12 exceptions. 
 
-![rateSoft](dataset/qualityIncomplete/rateSoft.png)
+![rateSoft](dataset/img/rateSoft.png)
 
 The figure above shows the average percentage of satisfied soft clauses (y axis) as a function of the balance B (c_axis) in the _SmallComp_ dataset
 

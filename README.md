@@ -5,6 +5,10 @@
 
 ## Complete Solvers
 
+
+
+[MaximoSmallComp](CompleteSolverComparison/SmallComp/Maximo/Result.txt)
+
 ## Incomplete Solvers
 
 Minimum timeout needed to compute feasible solution to _Firewall1_ (y axis, secs) as a function of the number of users (x axis). Along the x-axis we also note the size og the corresponding CNF formula.

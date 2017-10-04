@@ -109,9 +109,20 @@ Results are also available in plain text in [rate.txt](dataset/Incomplete/rate.t
 
 # Experimental Results 
 
-
-
 ## Impact of Beta
+
+By adopting CCEHC Max-SAT solver we asses experimentally the impact of balance B to **sim** (similarity) and **opt** (simplicity) for three dataset.
+
+- [SmallComp](preferencesImpact/optsim/SmallCompSimplicity180.dat) 
+- [Domino](preferencesImpact/optsim/DominoSimplicity180.dat)
+- [University](preferencesImpact/optsim/UniversitySimplicity360.dat)
+
+![A_sim](preferencesImpact/optsim/A_Sim.png)
+
+The figure shows the average similarity and simplicity (y axis) as a function of the balance B (x axis) with 21 values of B sampled ar regular intervals.
+
+
+
 
 ## Impact of timeout
 
